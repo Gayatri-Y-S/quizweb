@@ -7,6 +7,7 @@ const quizData = [
         d: "javascript",
         correct: "d",
     },
+    
     {
         question: "What does CSS stand for?",
         a: "Central Style Sheets",
